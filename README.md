@@ -7,7 +7,7 @@ This SDK allows you to validate licenses using the LicenseChain APIs.
 Install the SDK using pip:
 
 ```bash
-pip install licensechain-python-sdk
+pip install licensechain-sdk
 ```
 
 ## Usage
