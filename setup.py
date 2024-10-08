@@ -12,6 +12,6 @@ setup(
     description='Python SDK for LicenseChain to validate licenses using LicenseChain APIs.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/LicenseChain/Python-SDK',
+    url='https://github.com/LicenseChain/LicenseChain-Python-SDK',
     license='Elastic 2.0',
 )
